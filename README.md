@@ -108,6 +108,21 @@ My recent work and learning focus on combining traditional software architecture
 - AI-enabled developer productivity and enterprise GenAI applications
 - Mentoring engineers and driving technical direction
 
+## 🚀 Featured Projects
+
+### 🤖 ReviewVerse AI
+An AI-powered recommendation and review intelligence platform that combines **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), semantic search, and hybrid recommendation techniques** to deliver personalized and explainable movie and product recommendations. The platform analyzes real customer reviews using vector embeddings and AI-driven reasoning to generate intelligent recommendations, concise review summaries, product comparisons, and transparent explanations backed by authentic review content.
+
+---
+
+### 🇮🇳 BharatCity Explorer
+An AI-powered React application that enables users to explore Indian cities through intelligent, context-aware insights. The platform provides comprehensive information about history, culture, famous landmarks, local cuisine, travel highlights, and the best time to visit through a clean, interactive interface, making city exploration engaging and informative.
+
+---
+
+### 📊 RetailRadar Insight
+An AI-powered retail analytics platform that transforms large-scale Amazon product reviews into actionable consumer intelligence using **Natural Language Processing (NLP), sentiment analysis, high-performance information retrieval, and interactive data visualization**. The platform uncovers customer sentiment, identifies review trends, compares products, and delivers explainable, data-driven insights that help users make informed purchasing decisions beyond traditional star ratings.
+
 ## GitHub Stats
 
 <p align="center">
