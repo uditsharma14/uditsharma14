@@ -1,301 +1,132 @@
 <div align="center">
 
-# Hi 👋 I'm Udit Sharma
+# Hi, I'm Udit Sharma 👋
 
-### Lead Software Engineer • Distributed Systems • AI Engineering • Digital Payments
+### Lead Software Engineer | Distributed Systems | Digital Payments | AI Engineering
 
-Building scalable backend systems, cloud-native applications, and AI-powered developer tools.
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+Building scalable, resilient, cloud-native platforms and AI-powered engineering solutions.
 
 </div>
 
 ---
 
-| ASCII Portrait | About Me |
-|---------------|----------|
-| ```text
------------------------------:::::::::::::::::::::::::::::::::::
----------------------::::--:::::::::::::::::::::::::::::::::::::
-=====---------------=+*##%%#%%##**+-::::::::::::::::::::::::::::
-++++++++++====---+#%@@@@@@@@@@@@@@@@#=::::::::::::::::::::::::::
-*************++*%@@@@@@@@@@@@@@@@@@@@@#*-:::::::::::::::::::::::
-************#%@@@@@@@@@@@@@@@@@@@@@@@@@@@*::::::::::::::::::::::
-************@@@@@@@@%%%%%%#*****###%@@@@@@*:::::::::::::::::::::
-************@@@@@%#*+++===--------=+*%@@@@%-::::::::::::::::::::
-************@@@@%#*+++==-----::----=+*%@@@@=::::::::::::::::::::
-************@@@%##*+++====---------===+*%@@+:::::::::::::::::::.
-************%@@%##*+==------=-=-=-======#%@=::::::::::::::::::..
-************#@@%#####+==-++***+========+#@@=-::::::::::::::::...
-************%@%%%#%%*##+-=+***%#*+===-==##=--::::::::::::::::...
-************#@%%%##*+##=--=+++++==----==*=---:::::::::::::::....
-************#@%*++=+##+----------:---==+*----:::::::::::::::....
-************#@#+=--*#*-:---===-:::--==++*=-=-::::::::::::::.....
-************#@%*++*#%%#**++==+++---====+*=--:::::::::::::.......
-*************@%*#@%%%%#*#*****##*======+*=::::::::::::::........
-*************#@#+*##%#**+======++-=--=*#+:::::::::::::::........
-**************@%#*###***++=---=====++###=::::::::::::::.........
-***************%@@%##*++========+**###*+=::.:::::::::::.........
-****************#%@@%#*++++***###%#*++=-:.-=:.:::::::::.........
-*******************%@@@@@%%@%%%##*+=-:.  .*@#=:.:::::...........
-******************+*@@@%%%##**++=-..    .+%%%%#=:...............
-*******************=#%%#*++++==:.      .*%%%%%%%#*+-:...........
-*****************#%=.:-+++==-:        .#%%%%%%%%@@@@%*=-:.......
-****************%@@=.-=+*+=-=#=.     :#@%%%%%%%%@@@@@@@@%*=-:...
-*************#%@@@%=#@@@@@%%@%+=:.  :%@%@@%%@@@@@@@@@@@@@@@@%*+-
-*********#%@@@@@@@==%@@@%%%#=. .::.-%@@@%%@@@@@@@@@@@@@@@@@@@@@@
-******#%@@@@@@@@@=.-#@@%@*:  .....+@@%@@@@@@@%@@@@@@@@@@%%%%%%%%
-**#%@@@@@@@@@@@#-..=%@%@%. .....:*@%%%%@@@@@@@@@@@@@@@%%%%%%%%%%
-#@@@@@@@@@@@@@@:.::*@%%%%-....::*@%%%@@@@@@@@@%%%@@@%%%%%%%%%%%%
-@@@@@@@@@@@@@@#::.-%@%%%@+. .::#@%%@@@@@@@@@@@%%@%%%%%%%%%%%%%@%
-@@@@@@@@@@@@@@=...+@@%%%%-.:::#@%%%@@@@%@@@@@%%%%%%%%%%%%%%%%@%#
-@@@@@@@@@@@@@%-..:@@%%%%%:-::%@%%%@@@@%@@@@@%%%%%###%%%%%%##@%##
-``` | **Lead Software Engineer**<br>📍 Chicago, USA<br><br>💳 Digital Payments<br>☁️ Cloud Native Systems<br>🤖 AI & LLM Engineering<br>🏗️ Distributed Systems<br>🚀 Microservices Architecture |
+<table>
+<tr>
+<td width="48%" valign="top">
+
+<pre>
+----------------::::::::::::::::::::::::::::::::
+--------------:-==+++++==--:::::::::::::::::::::
+++++++====---+#@@@@@@@@@@@%+-:::::::::::::::::::
+***********#@@@@@@@@@@@@@@@@@#=::::::::::::::::.
+*********%@@@@@@@@@@%%%%%@@@@@@#::::::::::::::..
+*********@@@@%**+++=-----=+#@@@@=:::::::::::::..
+*********@@@%*+++=----:---=+*%@@+::::::::::.....
+*********@@@#*+==---------===+#@*.::::::::......
+*********%@%###*+===+**=======#@+::::::::.......
+*********%@%%%%*%+-=**##+==--=#+--::::::........
+*********#%#*++*#=---==-----=++:--:::::.........
+*********#@*=-+#+----=-:::-=+++-=::::::.........
+*********#@**#%@%***++**=-===++--::::...........
+**********@#*#%%#**++++*+---+*+::::::...........
+**********#@####**+=---===+*##=..:::............
+***********#@@@#*+==+=++*###*+-.:...............
+*************#%@%%%%%%%%#*=-:. :%+:.............
+***************@@%%##**+-:.   :#@@#+:...........
+**************==***+==-.     -#%%%%%%%*=:.......
+************#@+.-=*=-==.    -%@%%%%%@@@@@#*=:...
+*********#%@@@=#@@@@%%*-:. =@@@@@@@@@@@@@@@@@#*=
+*****#%%@@@@@=-%@@%#=:...:*@@@@@@@@@@@@@@@@@@@@@
+*##%@@@@@@@%=.-%@@#. ...:#@@@@@@@@@@@@@@@%%%%%%%
+%@@@@@@@@@@=..*@%%%:...:#@%@@@@@@@@%@@@%%%%%%%%%
+@@@@@@@@@@%:.:%@%%%:..-%@%@@@@@@@@%%@%%%%%%%%%@%
+@@@@@@@@@@*. +@%%%#::-%@%@@@@@@@@%%%%%%%%%%%%@%#
+</pre>
+
+</td>
+<td width="52%" valign="top">
+
+<h2>About Me</h2>
+
+<strong>Lead / Staff-level Software Engineer</strong><br><br>
+
+📍 Chicago, Illinois<br>
+💼 Nearly 14 years of software engineering experience<br>
+💳 Digital Payments and enterprise platforms<br>
+🏗️ Distributed systems and microservices architecture<br>
+☁️ Cloud-native engineering and platform modernization<br>
+🤖 Generative AI, RAG, agents, and developer productivity<br><br>
+
+<strong>Current focus</strong><br>
+Spring Boot internals, Kubernetes, system design, AI engineering, and scalable backend architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# About Me
+## Core Expertise
 
-I am a Lead Software Engineer with nearly **12 years of experience** designing and building enterprise-scale software systems.
+- **Backend engineering:** Java, Spring Boot, Spring Framework, REST APIs, Microservices
+- **Architecture:** Distributed systems, event-driven architecture, API design, high availability, resiliency, scalability
+- **Messaging and data:** Apache Kafka, PostgreSQL, SQL Server, Oracle, MongoDB, Redis
+- **Cloud and platforms:** Docker, Kubernetes, OpenShift, Helm, AWS, Azure
+- **Engineering practices:** CI/CD, observability, performance tuning, secure API development, production support
+- **AI engineering:** Spring AI, LangChain, LangGraph, RAG, vector databases, Ollama, Qdrant, prompt engineering, AI agents
 
-My primary expertise includes:
+## Professional Focus
 
-- Large-scale Java backend systems
-- Cloud-native microservices
-- Distributed systems
-- Event-driven architectures
-- AI-powered software engineering
+I design and build enterprise-scale systems that are secure, maintainable, observable, and resilient under failure. My experience includes modernizing legacy platforms, designing APIs and microservices, building event-driven solutions, improving application performance, and supporting high-availability production environments.
 
-Recently I've been focusing heavily on **Generative AI**, **Spring AI**, **LangGraph**, **LLMs**, and **RAG systems** to build intelligent developer experiences.
+My recent work and learning focus on combining traditional software architecture with Generative AI to build intelligent developer tools, retrieval-augmented applications, and agentic workflows.
 
----
-
-# Tech Stack
+## Technology Stack
 
 ### Languages
-
-Java • Python • JavaScript • SQL
+`Java` `Python` `JavaScript` `SQL`
 
 ### Backend
+`Spring Boot` `Spring Framework` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Microservices`
 
-Spring Boot
+### Cloud and DevOps
+`Docker` `Kubernetes` `OpenShift` `Helm` `Jenkins` `GitHub Actions` `AWS` `Azure`
 
-Spring Framework
+### Data and Messaging
+`Kafka` `PostgreSQL` `SQL Server` `Oracle` `MongoDB` `Redis`
 
-Spring Security
+### AI and GenAI
+`Spring AI` `LangChain` `LangGraph` `RAG` `Vector Databases` `Ollama` `Qdrant` `AI Agents`
 
-Spring Data JPA
+## Areas I Enjoy Working On
 
-Hibernate
+- Designing scalable backend and distributed systems
+- Building secure, high-performance APIs
+- Event-driven architecture and Kafka-based platforms
+- Cloud migration and container orchestration
+- Production reliability, monitoring, and performance optimization
+- AI-enabled developer productivity and enterprise GenAI applications
+- Mentoring engineers and driving technical direction
 
-REST APIs
-
-GraphQL
-
-Microservices
-
-### Cloud
-
-AWS
-
-Azure
-
-OpenShift
-
-Docker
-
-Kubernetes
-
-Helm
-
-Terraform
-
-### Messaging
-
-Kafka
-
-RabbitMQ
-
-IBM MQ
-
-Event Streaming
-
-### Databases
-
-PostgreSQL
-
-Oracle
-
-SQL Server
-
-MongoDB
-
-Redis
-
-### Architecture
-
-Distributed Systems
-
-Domain Driven Design
-
-Event Driven Architecture
-
-CQRS
-
-Saga Pattern
-
-High Availability
-
-Scalable APIs
-
-Caching
-
-Performance Optimization
-
-### DevOps
-
-GitHub Actions
-
-Jenkins
-
-CI/CD
-
-Docker
-
-Kubernetes
-
-Helm
-
-Prometheus
-
-Grafana
-
-Splunk
-
-App Insights
-
-### AI Engineering
-
-Spring AI
-
-LangChain
-
-LangGraph
-
-Vector Databases
-
-RAG
-
-Prompt Engineering
-
-Ollama
-
-Qdrant
-
-OpenAI APIs
-
-MCP
-
-AI Agents
-
----
-
-# What I'm Currently Working On
-
-- 🤖 Enterprise AI applications
-- 🧠 LLM-powered developer tools
-- ⚡ Spring AI
-- ☸ Kubernetes internals
-- 🚀 Staff Engineer interview preparation
-- 🏦 Modern payment platforms
-
----
-
-# Featured Expertise
-
-✅ Enterprise Architecture
-
-✅ Spring Boot Internals
-
-✅ JVM Performance
-
-✅ Kubernetes
-
-✅ Kafka
-
-✅ Distributed Systems
-
-✅ API Design
-
-✅ High Availability
-
-✅ Cloud Migration
-
-✅ AI Integration
-
----
-
-# Professional Experience
-
-### Digital Payments
-
-- Payment Processing
-- Secure APIs
-- Authentication
-- Authorization
-- Identity
-- Fraud Prevention
-- High-volume transaction systems
-
-### Enterprise Systems
-
-- Designed scalable microservices
-- Developed REST APIs
-- Performance optimization
-- Cloud migration
-- Containerization
-- CI/CD modernization
-
----
-
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+## Connect With Me
 
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Philosophy
-
-> "Great software isn't just code—it's designing systems that scale, remain resilient under failure, and are simple for others to evolve."
-
----
-
-# Fun Facts
-
-☕ Coffee-powered coding
-
-🤖 AI Explorer
-
-📚 Continuous learner
-
-💡 Passionate about solving complex engineering problems
+> Great engineering is not only about writing code. It is about designing systems that remain simple to understand, resilient under failure, and easy to evolve.
