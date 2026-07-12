@@ -111,17 +111,15 @@ My recent work and learning focus on combining traditional software architecture
 ## GitHub Stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=uditsharma14&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub stats"
-  />
+<img
+width="70%"
+src="https://github-readme-stats-six-kappa-57.vercel.app/api?username=uditsharma14&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditsharma14&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages"
-  />
+<p align="center">
+<img
+width="45%"
+src="https://github-readme-stats-six-kappa-57.vercel.app/api/top-langs/?username=uditsharma14&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ## Connect With Me
