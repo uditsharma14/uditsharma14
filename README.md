@@ -3,11 +3,9 @@
 # Hi, I'm Udit Sharma 👋
 
 ### Lead Software Engineer | Distributed Systems | Digital Payments | AI Engineering
-
 Building scalable, resilient, cloud-native platforms and AI-powered engineering solutions.
 
 </div>
-
 ---
 
 <table>
